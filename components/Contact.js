@@ -39,13 +39,13 @@ const ContactInfo = () => {
               />
             </div>
             <h6 className="trm-mb-20">Call</h6>
-            <div className="trm-mb-15">
+            {/* <div className="trm-mb-15">
               <span className="trm-label">Work:</span>{" "}
               <span className="trm-text-sm">+29 (044) 593 85 63</span>
-            </div>
+            </div> */}
             <div>
               <span className="trm-label">Personal:</span>{" "}
-              <span className="trm-text-sm">+29 (044) 293 37 28</span>
+              <span className="trm-text-sm">+01 (206) 965 53 44</span>
             </div>
           </div>
         </div>
@@ -74,12 +74,12 @@ const ContactInfo = () => {
             <h6 className="trm-mb-20">Wright</h6>
             <div className="trm-mb-15">
               <span className="trm-label">Email:</span>{" "}
-              <span className="trm-text-sm">trueman.inbox@gmail.com</span>
+              <span className="trm-text-sm">happylemonlcm@gmail.com</span>
             </div>
-            <div>
+            {/* <div>
               <span className="trm-label">Instagram:</span>{" "}
               <span className="trm-text-sm">@emmatrueman</span>
-            </div>
+            </div> */}
           </div>
         </div>
         {/* contact card end */}

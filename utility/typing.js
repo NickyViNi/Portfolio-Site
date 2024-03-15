@@ -75,9 +75,7 @@ REINIT
     const text = document.querySelector(".trm-typed-text");
 
     const words = [
-      "UI/UX Designer",
       "Web Developer",
-      "Photographer",
       "Dreamer :)",
     ];
 

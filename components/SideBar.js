@@ -26,10 +26,10 @@ const SideBar = () => {
             </div>
             <h5 className="trm-name trm-mb-15">Nicky Li</h5>
             <div className="trm-label">
-              I`m{"Fullstack Developer"}
-              {/* <span className="trm-typed-text"> */}
-                {/* Words for rotation: js/main.js line 34 */}
-              {/* </span> */}
+              I`m{""}
+              <span className="trm-typed-text">
+                {/* Words for rotation: js/typing.js line 34 */}
+              </span>
             </div>
           </div>
           {/* card header end */}
