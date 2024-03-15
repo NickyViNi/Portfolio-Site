@@ -63,7 +63,7 @@ const Services = () => {
                 className="trm-white-icon"
               />
             </div>
-            <h6 className="trm-mb-20">UI/UX Design</h6>
+            {/* <h6 className="trm-mb-20">UI/UX Design</h6> */}
             <div className="trm-mb-20">
               Dolor sit amet, consectetur adipisicing elit. Delectus esse
               commodi.

@@ -24,29 +24,29 @@ const SideBar = () => {
               <img className="trm-avatar" src="/img/avatar.jpg" alt="Avatar" />
               <div className="trm-dot" />
             </div>
-            <h5 className="trm-name trm-mb-15">Emma Trueman</h5>
+            <h5 className="trm-name trm-mb-15">Nicky Li</h5>
             <div className="trm-label">
-              I`m{" "}
-              <span className="trm-typed-text">
+              I`m{"Fullstack Developer"}
+              {/* <span className="trm-typed-text"> */}
                 {/* Words for rotation: js/main.js line 34 */}
-              </span>
+              {/* </span> */}
             </div>
           </div>
           {/* card header end */}
           <div className="trm-divider trm-mb-40 trm-mt-40" />
           {/* sidebar social */}
           <div className="trm-social">
-            <a href="#." target="_blank">
+            <a href="https://www.linkedin.com/in/nicky-li/" target="_blank" title="LinkedIn">
               <i className="fab fa-linkedin-in" />
             </a>
-            <a href="#." target="_blank">
+            <a href="mailto:happylemonlcm@gmail.com" target="_blank" title="Gmail">
               <i className="fab fa-dribbble" />
             </a>
-            <a href="#." target="_blank">
+            {/* <a href="#." target="_blank">
               <i className="fab fa-behance" />
-            </a>
-            <a href="#." target="_blank">
-              <i className="fab fa-twitter" />
+            </a> */}
+            <a href="https://github.com/NickyViNi" target="_blank" title="GitHub">
+              <i className="fab fa-github" />
             </a>
           </div>
 
@@ -57,18 +57,18 @@ const SideBar = () => {
             {/* country */}
             <li>
               <div className="trm-label">Residence:</div>
-              <div className="trm-label trm-label-light">Canada</div>
+              <div className="trm-label trm-label-light">US</div>
             </li>
             {/* city */}
             <li>
               <div className="trm-label">City:</div>
-              <div className="trm-label trm-label-light">Toronto</div>
+              <div className="trm-label trm-label-light">Seattle</div>
             </li>
             {/* age */}
-            <li>
+            {/* <li>
               <div className="trm-label">Age:</div>
               <div className="trm-label trm-label-light">26</div>
-            </li>
+            </li> */}
           </ul>
           {/* info end */}
           <div className="trm-divider trm-mb-40 trm-mt-40" />

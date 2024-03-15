@@ -34,7 +34,7 @@ const Image = () => {
                 <h1 className="trm-mb-30">
                   Discover my
                   <br />
-                  art space!
+                  tech space!
                 </h1>
                 <a
                   data-fancybox=""
